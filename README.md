@@ -1,2 +1,2 @@
-# UIDconsensus
+# UIDcollision
 This project folder contains programs to simulate the results from next-gen sequencing data performed wtih barcoding and processed into consensus sequences by family with the goal of understanding the impact of collisions.  There are 3 different models of UIDs: Uniform, GC preference, and Variable PCR.  Each model is its own R file and has its own explanatory document.  Additionally, the code is provided is fairly thoroughly documented.  This work is described in the paper "The impact of collisions on the ability to detect mutant alleles using barcode-type next generation sequencing techniques" by Jenna VanLiere Canzoniero, Karen Cravero, and Ben Ho Park. 
